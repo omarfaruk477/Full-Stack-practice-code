@@ -14,6 +14,8 @@
    - Browser: Google Chrome
    - Version Control: Git and GutHub
 6. Basic Structure of HTML
+   - Head, Body
+   - Tag <html></html>
 
 Full form:
 HTML = HTML stands for Hyper Text Markup Language
