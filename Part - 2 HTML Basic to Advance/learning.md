@@ -30,10 +30,19 @@
    - comment
 8. Heading, Paragraph, Line breaks, horizontal rule
 9. Semantic HTML Vs Non-Semantic HTML
+   - Semantic tag: header, footer, main, form, table
+   - Non-semantic tag: div, span
+10. Text formatting tags
+11. List
+12. Link
+13. Table
+14. Form
+15. Deploy
 
-Full form:
-HTML = HTML stands for Hyper Text Markup Language
-CSS = CSS stands for Cascading Style Sheets
-JS = JavaScript (JavaScript Can Change HTML Content)
+## Full form:
+
+    HTML = HTML stands for Hyper Text Markup Language
+    CSS = CSS stands for Cascading Style Sheets
+    JS = JavaScript (JavaScript Can Change HTML Content)
 
 https://www.finnair.com/
