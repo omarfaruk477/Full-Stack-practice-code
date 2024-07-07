@@ -22,8 +22,14 @@
    - Tag <html></html>
 7. Basic Tags, Styling, Debugging
    - tag? types of tag
-   - attribute
+     1. pair tag / container tag <html></html>, <head></head>, <body></body>
+     2. empty tag, single tag <meta tag>, <title tag>, <br tag>
+   - attribute: attribute use is in a tag.
    - element, content- debugging
+   - HTML Validation check: (https://validator.w3.org/#validate_by_upload)
+   - comment
+8. Heading, Paragraph, Line breaks, horizontal rule
+9. Semantic HTML Vs Non-Semantic HTML
 
 Full form:
 HTML = HTML stands for Hyper Text Markup Language
