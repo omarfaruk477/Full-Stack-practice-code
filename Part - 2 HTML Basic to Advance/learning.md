@@ -33,12 +33,8 @@
    - Semantic tag: header, footer, main, form, table
    - Non-semantic tag: div, span
 10. Text formatting tags
-11. List:
-<ol>
-   <li>
-   </li>
-</ol>
- /: list tag have some attribute 1. type="", 2. Start="",
+11. List tag: <ol> <li> </li> </ol>
+    : list tag have some attribute 1. type="", 2. Start="",
 12. Link
 13. Table
 14. Form
