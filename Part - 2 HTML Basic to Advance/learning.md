@@ -33,9 +33,28 @@
    - Semantic tag: header, footer, main, form, table
    - Non-semantic tag: div, span
 10. Text formatting tags
-11. List tag: <ol> <li> </li> </ol>
-    : list tag have some attribute 1. type="", 2. Start="",
-12. Link
+11. List tag:
+
+- ol (Order list)
+- ul (Un order list)
+- dl (defination list)
+  : dl, dt, dd
+- Nasted list
+  \*\*\*\* list tag have some attribute
+  1. type="" {square, circle,}
+  2. Start=""
+  3. reversed
+
+12. Link and Navigation
+
+- absolut link vs relative link
+  . Absulut link: <a target="_blank" href="url">Text</a>
+  . Relative link:  
+   <a href="Home">Text</a>
+  <a href="About">Text</a>
+  <a href="Contact">Text</a>
+- a tag, attribute: href, target, title
+
 13. Table
 14. Form
 15. Deploy
