@@ -48,11 +48,11 @@
 12. Link and Navigation
 
 - absolut link vs relative link
-  . Absulut link: <a target="_blank" href="url">Text</a>
-  . Relative link:  
-   <a href="Home">Text</a>
-  <a href="About">Text</a>
-  <a href="Contact">Text</a>
+  1. Absulut link: <a target="_blank" href="url">Text</a>
+  2. Relative link:  
+      <a href="Home">Text</a>
+     <a href="About">Text</a>
+     <a href="Contact">Text</a>
 - a tag, attribute: href, target, title
 
 13. Table
