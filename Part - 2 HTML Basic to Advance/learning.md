@@ -40,7 +40,7 @@
 - dl (defination list)
   : dl, dt, dd
 - Nasted list
-  \*\*\*\* list tag have some attribute
+  \\ list tag have some attribute
   1. type="" {square, circle,}
   2. Start=""
   3. reversed
